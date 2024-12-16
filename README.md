@@ -1,3 +1,9 @@
+## PD29S Atividade 3
+### Integrantes
+- Roberto Goz | 2372665
+- João Cervino | 2372576
+
+
 ### Apresentação do Código de Troca de Rostos
 
 Este código implementa um processo de troca de rostos em imagens utilizando a biblioteca OpenCV. Ele combina várias técnicas de processamento de imagem, como triangulação de Delaunay, transformação afim e clonagem contínua para realizar uma troca realista de regiões faciais entre duas imagens. Abaixo, os principais componentes e etapas do código são explicados.
